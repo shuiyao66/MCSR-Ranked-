@@ -1,0 +1,6 @@
+{
+  "name": "MCSR Ranked",
+  "description": "Modern Android application for MCSR Ranked and Rankalytics with built-in browser, web translation, multi-language support, custom themes, and speedrun analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
